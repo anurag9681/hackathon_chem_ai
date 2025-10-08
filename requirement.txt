@@ -1,0 +1,12 @@
+streamlit
+opencv-python
+pillow
+scikit-learn
+numpy
+matplotlib
+langchain
+langchain-google-genai
+langchain-core
+python-dotenv
+networkx
+graphviz
